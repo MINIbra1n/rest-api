@@ -1,0 +1,4 @@
+github.com/MINIbra1n/restdb v0.0.0-20241120141957-9b4dea2a4422 h1:CgamoRz39/E16auvE9IwuAQOWPwr/TvRp8vrOp15PMA=
+github.com/MINIbra1n/restdb v0.0.0-20241120141957-9b4dea2a4422/go.mod h1:Gu1vjJHdDph5X10eZFlM2AiHo2XFhkSN7VS9H8Yn5GI=
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
